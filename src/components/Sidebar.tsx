@@ -45,6 +45,12 @@ const menuGroups = [
     ],
   },
   {
+    label: '旅游分析',
+    items: [
+      { path: '/travel-city-analysis', icon: BarChart3, label: '城市潜力分析' },
+    ],
+  },
+  {
     label: '基础管理',
     items: [
       { path: '/da-governance', icon: Shield, label: 'DA治理' },
